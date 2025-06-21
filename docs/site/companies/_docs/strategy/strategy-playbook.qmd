@@ -1,0 +1,352 @@
+---
+title: "strategy playbook"
+format: html
+---
+
+## Investor Relations
+
+https://www.strategy.com/investor-relations
+
+June 3, 2025 - Free Writing Prospectus
+https://assets.contentstack.io/v3/assets/bltf8d808d9b8cebd37/blt812d7f2984279426/683ed87025f1b4e9aca10c84/form-fwp_06-03-2025.pdf
+
+Submit to notebooklm
+
+
+## Exhibt B 
+
+### Overview of Goals
+
+- Acquiring Bitcoin Accretively for Shareholders: The fundamental objective behind their strategy is to acquire Bitcoin in a manner that the company believes is "accretive to shareholders". They use specific Key Performance Indicators (KPIs) such as BTC Yield %, BTC Gain, and BTC $ Gain to help assess the performance of this strategy. These KPIs evaluate the change in their Bitcoin holdings relative to their assumed diluted shares, or the gain in Bitcoin or dollar terms from acquiring Bitcoin with given financing, net of associated costs.
+
+- Generating "BTC Torque" via Capital Markets: They refer to their capital structure and operations as their "BTC engine". A key purpose of this engine is to "generate BTC torque via surgical management of our ATMs" (at the market offerings) on their various securities. They aim to use their different capital raising mechanisms (common equity, STRK, STRD, STRF) to "continuously generate BTC Yield % and BTC Gain over time in all manner of market conditions".
+
+- Building Out the Yield Curve for Bitcoin-Backed Credit Instruments: They are actively creating and offering a variety of securities based on their Bitcoin reserves. By introducing different instruments like STRF (senior perpetual preferred) and STRD (high-yield perpetual preferred), they are "building out the yield curve for Bitcoin-backed credit instruments". This involves positioning instruments at different points along the yield curve to appeal to different types of credit investors.
+
+- Adding Intelligent Leverage and Driving mNAV North: They believe their approach adds "intelligent leverage to MSTR". This leverage, derived from instruments like preferred stock, allows them to raise capital without diluting the common equity. A goal is to use this leverage and capital deployment to "drive the mNAVs north", aiming for mNAV levels of "two, to three, or to four or beyond". mNAV is a metric they define based on enterprise value relative to their Bitcoin NAV.
+
+- Attracting Capital and Growing Their Treasury: They perceive their large Bitcoin treasury as making them "positively polarized to capital". They expect to continue attracting capital at a rapid rate, enabling them to "climb up this treasury ladder" and increase the size of their Bitcoin holdings.
+
+- Educating the Market on Bitcoin as Collateral: They are engaged in educating the market about the "credit worthiness of Bitcoin-backed credit instruments". They aim to persuade investors to consider Bitcoin as collateral and potentially lead to a re-rating of their fixed income and preferred instruments by the marketplace.
+
+- Market Environment and Opportunism: The company is launching the STRD offering in what they describe as a "very strong market environment" and building "on the strength of STRF and STRK". This indicates their capital-raising goals are pursued opportunistically, leveraging positive market conditions and the perceived success of previous offerings. They assess market liquidity before launching new instruments.
+
+- Sequential Capital Raising & ATM Strategy: Their plan involves sequentially introducing new preferred stock offerings (STRK, STRF, STRD) and then launching "at-the-market offerings" (ATMs) on these instruments at "the appropriate time" after their initial public offering (IPO). This highlights a systematic, multi-stage approach to continuously raising capital.
+
+- Specific, Defined KPIs for Success: Strategy uses proprietary Key Performance Indicators (KPIs) like BTC Yield % and BTC $ Gain to measure the performance of their treasury operations. These aren't traditional financial metrics but are specifically defined to assess how effectively they are acquiring Bitcoin relative to their assumed diluted shares or in absolute Bitcoin/dollar terms generated through their financing activities. Their goals include achieving specific targets for these KPIs (e.g., updating BTC Yield % target to 25%, targeting $15B BTC $ Gain). Crucially, they explicitly state these KPIs are for management to assess whether capital deployment is "accretive to shareholders solely as it pertains to its bitcoin holdings" and are "supplements, not a substitute" for financial statements, intended only for sophisticated investors.
+
+- Emphasis on Significant Bitcoin-Based Coverage: A key part of their narrative is the substantial coverage their Bitcoin holdings provide for their debt and preferred dividends. They quantify this, stating 12x coverage on out-of-the-money convertible debt based on current Bitcoin value and demonstrating hundreds of years of preferred dividend coverage even under significant Bitcoin price decline scenarios. This aims to reassure investors about the security and sustainability of returns on their credit instruments.
+
+- Building a Capital Structure "Pyramid": They view their various securities (common equity, convertible bonds, STRK, STRD, STRF) as layers in a capital structure "pyramid". They are intentionally constructing this structure with defined senior and junior rankings and different risk/volatility profiles to appeal to a wide range of investors. STRD is positioned as a high-yield instrument junior to STRK and STRF.
+
+- STRD as a Credit-Enhancer for Senior Instruments: Counterintuitively, they explain that selling the junior STRD is intended to "improv[e] the BTC Rating of the converts, of STRF and of STRK". By raising more capital (and thus acquiring more Bitcoin) at a junior level, it increases the collateral base for all securities senior to it, which they believe should decrease the perceived risk and lead to "compression of credit spreads of the above three". This highlights a goal of strategic financial engineering within their capital structure.
+
+- Educating the Market on Bitcoin Creditworthiness: Strategy is actively trying to educate the financial market about the "credit worthiness of Bitcoin-backed credit instruments". They present their own metrics like BTC Rating and BTC Risk and compare their high levels of collateralization (6x to 60x) to traditional bonds (claiming none rated are more than 3x overcollateralized). The goal is for the market to "embrace BTC Ratings and BTC Risk and BTC Credit metrics" and potentially re-rate their instruments higher.
+
+- Strategic Flexibility and Optimization: They discuss how their multi-instrument structure, backed by Bitcoin, provides flexibility to adapt to different market conditions, specifically high vs. low Bitcoin volatility. They aim to "tune this over time in order to ensure that we reach optimal performance with our equity and with all of these other instruments". This implies a goal of long-term capital structure optimization based on Bitcoin's evolving characteristics.
+
+
+### Products
+
+Strategy offers several investment products to the market:
+
+- MSTR Common Stock: This is their standard equity offering. It is described as the "lowest gear in our engine" and the "junior security" in their capital structure pyramid. It is viewed as a "very liquid, very volatile, reasonably well understood, durable, credible BTC-backed equity instrument". The trading price of their Class A common stock is influenced by numerous factors in addition to the amount of Bitcoin they hold.
+
+- Convertible Bonds: These are debt instruments that can be converted into MSTR common stock. They are mentioned as having performed well since issuance and have a "fairly long-dated" maturity out to 2032. They are presented as the most senior instrument in their capital structure pyramid with the least risk, providing credit protection and less volatility than the equity. The weighted average annual fixed interest rate on their convertible debt is described as "nominal" at 0.421%. They currently have about $8.2 billion of convertible debt outstanding, with $5 billion of it currently out of the money based on the Bitcoin price mentioned.
+
+- STRK: This is their "perpetual strike preferred stock". It is a convertible preferred instrument, meaning it is partly dividend bearing (geared at 8% of par) and partly has conversion rights to MSTR common stock. It is positioned as the second gear in their "BTC engine" and junior to STRF but senior to STRD and MSTR common stock in the capital structure. It has proven to be somewhat less volatile than the common equity but more volatile than STRF over the last few months. ATM offerings have been launched for STRK, raising $316 million to date.
+
+- STRF: This is their "perpetual strife preferred stock" or senior perpetual preferred. It is described as the "crown jewel of our preferred stack" and is meant to be something similar to investment grade for Bitcoin-backed credit believers. It pays a 10% fixed dividend at par, which is cumulative. It is the most senior security among their preferreds and debt, positioned senior to STRK, STRD, and MSTR common stock. It is expected to be the least volatile instrument in their capital structure. ATM offerings have been launched for STRF, raising $49 million to date.
+
+- STRD: This is their "perpetual stride preferred stock". It is a high-yield perpetual preferred stock. It offers a 10% fixed, non-cumulative dividend. STRD is junior to STRK, STRF, and their debt, but senior to MSTR common stock in the capital structure. It is described as being "targeted at the high-yield market" and is expected to yield more than STRF and be the highest yielding among their preferred equities. It represents the "third gear" in their "BTC engine".
+These instruments, along with potential future perpetual preferred offerings, are seen as forming a capital structure "pyramid" based on their Bitcoin reserves. They are also the building blocks for other related products in the market, such as ETFs (like BMAX) that buy their convertible bonds, or ETFs/derivatives that provide leveraged exposure or sell volatility on the MSTR common stock (like MSTY, IMST, MST, MSTX, MSTU, MSTZ).
+
+
+### Product Description and Relationships
+
+- MSTR Common Stock: This represents the junior security in Strategy's capital structure "pyramid" and is described as the "lowest gear in our engine". Its purpose is to provide investors with the most volatile exposure to Strategy's performance, which is significantly influenced by the value of its Bitcoin holdings. It is considered a "very liquid, very volatile, reasonably well understood, durable, credible BTC-backed equity instrument" [conversation history]. The trading price is informed by numerous factors in addition to the amount of Bitcoin held.
+
+- Convertible Bonds: These are debt instruments that rank as the most senior instrument in their capital structure, providing investors with credit protection and less volatility compared to the equity. The weighted average annual fixed interest rate on their convertible debt is "nominal" [conversation history]. Their purpose is to allow Strategy to raise capital at potentially favorable terms to acquire Bitcoin while offering investors a fixed income component and the potential for conversion into equity under certain conditions [conversation history, 54, 70, 71]. They have demonstrated upside that is "in excess of Bitcoin but with a credit instrument".
+
+- STRF (Perpetual Strife Preferred Stock): This is described as their "senior perpetual preferred" and the "crown jewel of our preferred stack" [conversation history]. It is positioned as the most senior security among their preferreds and junior only to their convertible bonds. Its purpose is to appeal to investors seeking a security with high seniority in the capital structure and is expected to be the least volatile instrument among their offerings. It pays a 10% fixed dividend at par, which is cumulative [104, conversation history, 33]. Strategy aims for this instrument to be perceived as something similar to investment grade for investors who believe in Bitcoin-backed credit [conversation history]. It represents the "fourth gear" in their "BTC engine". ATM offerings have been launched for STRF.
+
+- STRK (Perpetual Strike Preferred Stock): This is a convertible preferred stock [conversation history]. It is positioned as the second most senior preferred stock, junior to STRF but senior to STRD and the common stock. Its purpose is to offer investors a convertible feature, providing a blend of dividend income (an 8% dividend at par [33, conversation history]) and potential upside via conversion rights to common stock [conversation history]. It is expected to be somewhat less volatile than the equity, but more volatile than STRF. It represents the "second gear" in their "BTC engine". ATM offerings have been launched for STRK.
+
+- STRD (Perpetual Stride Preferred Stock): This is described as a "high-yield perpetual preferred" stock [102, conversation history] and the "third gear" in their "BTC engine". It is the most junior among their preferred stocks, ranking junior to STRK and STRF, but senior to the common stock. Its purpose is to be "targeted at the high-yield market" [conversation history] and offer an attractive yield via a 10% fixed, non-cumulative dividend. Strategy intends to launch an ATM on STRD after its initial public offering.
+
+Relationships Between Products:
+
+  Strategy views these different securities as layers in a capital structure "pyramid" or "stack". They are intentionally designed with defined seniority rankings (Convertible Bonds > STRF > STRK > STRD > Common Stock) and different risk/volatility profiles to appeal to a wide range of investors.
+This structure forms their "BTC engine", enabling them to "continuously generate BTC Yield % and BTC Gain over time in all manner of market conditions" through the "surgical management of our ATMs" on these various securities. The different instruments act as "gears" in this engine (Common Stock = lowest gear, STRK = second gear, STRD = third gear, STRF = fourth gear), allowing them flexibility to raise capital depending on market conditions and investor demand for different risk/return profiles.
+
+  A unique aspect highlighted is that issuing junior instruments like STRD is intended to improve the perceived creditworthiness and "BTC Rating" of the more senior instruments (convertible bonds, STRF, STRK). By adding more capital (and thus acquiring more Bitcoin collateral) at a junior level, it increases the collateral base for all securities senior to it, which they believe should "decrease the risk" and lead to "compression of credit spreads" of those senior instruments.
+
+  Furthermore, by offering a variety of instruments with different dividend/coupon structures (fixed vs. convertible, cumulative vs. non-cumulative) and seniority, they are "building out the yield curve for Bitcoin-backed credit instruments", aiming to position instruments at different points along this curve [conversation history].
+
+Other Related Products:
+
+  Beyond their direct offerings, Strategy's significant Bitcoin treasury and unique capital structure also enable the creation of related products in the market, such as ETFs that buy their convertible bonds (like BMAX) or ETFs/derivatives that provide leveraged exposure or sell volatility on the MSTR common stock (like MSTY, IMST, MST, MSTX, MSTU, MSTZ).
+
+Important Considerations:
+  It is important to note that Strategy explicitly states that the metrics they use, such as BTC Yield %, BTC Gain, BTC $ Gain, BTC Rating, and mNAV, are Key Performance Indicators ("KPIs") or other defined terms presented for illustrative purposes only. They are not equivalent to traditional financial concepts like yield, gain, net asset value ("NAV"), or credit ratings from rating agencies. These KPIs are used by management to assess whether capital deployment is "accretive to shareholders solely as it pertains to its bitcoin holdings", and are supplements, not a substitute for financial statements, intended only for sophisticated investors who understand their limitations. The information in the presentation is not an offer to sell or a solicitation to buy securities and should not form the basis for an investment decision. Investors should read the preliminary prospectus supplement and accompanying prospectus filed with the SEC for more complete information.
+
+
+### KPIs
+
+Core KPIs for Assessing Bitcoin Treasury Accretiveness (Solely as it Pertains to Bitcoin Holdings):
+
+- BTC Yield %: This KPI represents the percentage change, during a period, of the ratio between the number of bitcoins held by the Company and the number of shares of its common stock and instruments convertible to common stock. It is used to help assess performance by comparing the rate of change in the Company's bitcoin holdings to the rate of change in the number of its common stock shares and convertible instruments. It is not equivalent to "yield" in the traditional financial context and is not a measure of return on investment or income generation.
+
+- BTC Gain: This KPI represents the number of bitcoins held by the Company at the beginning of a period multiplied by the BTC Yield % for such period. It hypothetically expresses the change reflected in the BTC Yield metric as if it reflected an increase in the amount of bitcoin held at the end of the applicable period compared to the beginning. It is not equivalent to "gain" in the traditional financial context.
+
+- BTC $ Gain: This KPI represents the dollar value of the BTC Gain, calculated by multiplying the BTC Gain by the market price of bitcoin. It further expresses the bitcoin-denominated gain as a dollar value. It does not represent the fair value gain on the Company’s bitcoin holdings and is not equivalent to "gain" in the traditional financial context.
+
+Purpose of these Core KPIs:
+
+These KPIs (BTC Yield %, BTC Gain, BTC $ Gain) are used by management to help assess whether the Company is raising and deploying capital in a manner accretive to shareholders solely as it pertains to its bitcoin holdings. They supplement an investor's understanding of the Company's decision regarding how it funds Bitcoin purchases and the value created in a period.
+
+Other Illustrative Metrics Providing a Conceptual Framework:
+Strategy also uses other defined terms that provide a conceptual framework for understanding how management views its securities and financing decisions in the context of its bitcoin strategy:
+
+BTC Valuation Metrics:
+
+BTC $ Income: Represents the dollar value of the unrealized gain or loss on bitcoin acquired with financing, net of associated dividend or interest costs. It is not equivalent to income in the traditional financial context.
+
+- BTC $ Value: The sum of BTC $ Gain and BTC $ Income. It is not equivalent to "value" in the traditional financial context.
+
+- BTC $ Equity: Calculated as Bitcoin NAV less BTC $ Value. It is not equivalent to "equity" in the traditional financial context.
+
+- BTC Torque: The ratio of BTC $ Value to BTC Capital.
+
+- BTC Multiple: The ratio of Bitcoin NAV to BTC $ Equity.
+
+- BTC Credit Metrics: These metrics are used to assess the perceived creditworthiness of Bitcoin-backed instruments.
+
+  - BTC Rating: The ratio of the Company's Bitcoin NAV and the sum of the notional values of the instruments being rated and all instruments senior to it. It is not a rating from any rating agency and is not equivalent to a "rating" in the traditional financial context.
+
+  - BTC Risk: The probability of an instrument having a BTC Rating less than 1x at the end of a given Duration. It is derived from a statistical modeling of bitcoin’s price, adjusted for BTC ARR and BTC Volatility assumptions. It is not an actuarial risk rating or a rating from any rating agency and is not a risk rating in the traditional financial context.
+
+  - BTC Credit: The credit spread necessary to offset BTC Risk for a given security. It is calculated by annualizing BTC Risk assuming the same risk each year and no recovery if collateral falls short. This metric is not for investment decisions.
+
+  - BTC Credit Hurdle: The BTC ARR necessary to create investment grade BTC Credit based on the presented framework. This metric is not for investment decisions.
+
+- BTC Forecast Metrics: These are assumed inputs for modeling.
+
+  - BTC ARR: An assumed annualized rate of return on bitcoin expressed as a percentage. No prediction as to the price of bitcoin is being made.
+
+  - BTC Volatility: The assumed standard deviation of bitcoin’s price.
+
+
+- Bitcoin NAV (and mNAV):
+
+  - Bitcoin NAV: Represents the value of the Company's bitcoin holdings. It does not take into account debt or the liquidation value of perpetual preferred stock. It is not equivalent to "net asset value" or "NAV" or any similar metric in the traditional financial context and is not comparable to NAV metrics reported by others.
+
+  - mNAV: Represents a multiple of Bitcoin NAV, calculated as the Company's enterprise value (as defined by the Company) divided by Bitcoin NAV. It is not equivalent to "net asset value" or "NAV" or any similar metric in the traditional financial context.
+
+Important Caveats and Limitations Highlighted:
+
+The sources extensively detail the limitations of these KPIs. Key points include:
+
+- The core KPIs (BTC Yield %, BTC Gain, BTC $ Gain) do not account for debt, preferred stock, and other liabilities or claims on company assets that are senior to common equity.
+
+- They assume that indebtedness will be refinanced or converted into common stock.
+
+- They do not measure operating performance or financial or liquidity.
+
+- Funding with offerings can increase these KPIs but also increases the company's indebtedness and senior claims not reflected in the metrics.
+
+- If convertible notes mature or are redeemed without conversion, or if non-convertible instruments are redeemed, the company may need to sell bitcoin or stock, which would decrease these KPIs.
+
+- Issuing stock for dividends or to fund cash dividends on preferred stock decreases these KPIs.
+
+- These KPIs are not indicative or predictive of the trading price of the company's securities.
+
+- The ability to achieve positive KPIs depends on various factors, including generating cash, the price of bitcoin, and the availability of financing, many of which are outside of the company's control.
+
+- Ownership of the Company's securities does not represent an ownership interest in the bitcoin the Company holds.
+You should read the preliminary prospectus supplement, the prospectus supplements, and accompanying prospectus filed with the SEC for more complete information about the Company and its offerings.
+
+
+
+Based on the sources and our conversation history, Strategy uses a set of key performance indicators (KPIs) and other defined terms to provide an illustrative framework for how management views its securities and capital financing decisions within the context of its Bitcoin strategy. These metrics are specifically designed to help assess the performance of the company's strategy solely as it pertains to its bitcoin holdings.
+It is crucial to understand that these metrics and the information presented are for illustrative purposes only. They do not constitute investment advice and should not be used to form the basis for an investment decision. They are not equivalent to traditional financial concepts like yield, gain, net asset value (NAV), or credit ratings from rating agencies. These metrics are presented as supplements, not substitutes, and should only be used by sophisticated investors who understand their limited purpose and many limitations. Investors should rely on the financial statements and other disclosures in the Company's SEC filings for complete information.
+Here are the key KPIs and related metrics mentioned in the sources, along with their descriptions and calculation methods where provided:
+Core KPIs for Assessing Bitcoin Treasury Accretiveness (Solely as it Pertains to Bitcoin Holdings):
+These KPIs are used by management to help assess whether the Company is raising and deploying capital in a manner accretive to shareholders solely as it pertains to its bitcoin holdings. They supplement an investor's understanding of the Company's decision regarding how it funds Bitcoin purchases and the value created in a period.
+•
+BTC Yield %:
+◦
+Description: This KPI represents the percentage change, during a period, of the ratio between the Company’s bitcoin holdings and its Assumed Diluted Shares Outstanding. It helps assess performance by comparing the rate of change in the Company's bitcoin holdings to the rate of change in the number of its common stock shares and instruments convertible to common stock.
+◦
+Calculation: Percentage change, during a period, of the ratio: (Number of bitcoins held by the Company) / (Assumed Diluted Shares Outstanding).
+◦
+Limitations: It is not equivalent to "yield" in the traditional financial context. It is not a measure of return on investment achieved by shareholders, income generated from operations or bitcoin, return on investment on bitcoin holdings, or any other similar traditional financial measure of performance. It does not account for debt, preferred stock, and other senior claims on company assets. It assumes indebtedness will be refinanced or converted into common stock. It is not indicative or predictive of the trading price of the Company's securities.
+•
+BTC Gain:
+◦
+Description: This KPI hypothetically expresses the change reflected in the BTC Yield metric as if it reflected an increase in the amount of bitcoin held at the end of the applicable period compared to the beginning.
+◦
+Calculation: The number of bitcoins held by the Company at the beginning of a period multiplied by the BTC Yield % for such period.
+◦
+Limitations: It is not equivalent to "gain" in the traditional financial context. It does not account for debt, preferred stock, and other senior claims on company assets. It is not indicative or predictive of the trading price of the Company's securities.
+•
+BTC $ Gain:
+◦
+Description: This KPI further expresses the bitcoin-denominated BTC Gain as a dollar value.
+◦
+Calculation: Multiplying the BTC Gain by the market price of bitcoin at the end of the applicable period. The Company uses the market price of bitcoin as of 4:00 pm ET as reported on the Coinbase exchange on the last day of the applicable period solely for this illustrative calculation.
+◦
+Limitations: It does not represent the fair value gain on the Company’s bitcoin holdings. It is not equivalent to "gain" in the traditional financial context. It does not account for debt, preferred stock, and other senior claims on company assets. It is not indicative or predictive of the trading price of the Company's securities.
+Other Illustrative Metrics Providing a Conceptual Framework:
+These terms provide a conceptual framework for how management views its securities and capital financing decisions in the context of the Company’s bitcoin strategy.
+•
+BTC Valuation Metrics:
+◦
+BTC $ Income:
+▪
+Description: The dollar value of the unrealized gain or loss on bitcoin acquired with any given financing, net of associated dividend or interest costs, and multiplied by the BTC Spread (for a net gain) or 100% (for a net loss) over the applicable period. The redemption of debt or liability with a maturity is treated as a cost, similar to dividend or interest costs, excluding any dilution already assumed in the original BTC Gain calculation.
+▪
+Calculation: Dollar value of unrealized gain/loss on bitcoin from financing - Associated dividend/interest costs. Adjusted based on BTC Spread or 100%.
+▪
+Limitations: It is not equivalent to "income" in the traditional financial context. Presented for illustrative purposes only.
+◦
+BTC $ Value:
+▪
+Description: The sum of BTC $ Gain and BTC $ Income.
+▪
+Calculation: BTC $ Gain + BTC $ Income.
+▪
+Limitations: It is not equivalent to "value" in the traditional financial context. Presented for illustrative purposes only.
+◦
+BTC $ Equity:
+▪
+Description: Represents Bitcoin NAV less BTC $ Value.
+▪
+Calculation: Bitcoin NAV - BTC $ Value.
+▪
+Limitations: It is not equivalent to "equity" in the traditional financial context. Presented for illustrative purposes only.
+◦
+BTC Torque:
+▪
+Description: The ratio of BTC $ Value to BTC Capital.
+▪
+Calculation: BTC $ Value / BTC Capital. Presented for illustrative purposes only.
+◦
+BTC Multiple:
+▪
+Description: The ratio of Bitcoin NAV to BTC $ Equity.
+▪
+Calculation: Bitcoin NAV / BTC $ Equity. Presented for illustrative purposes only.
+•
+BTC Credit Metrics: These metrics are used to assess the perceived creditworthiness of Bitcoin-backed instruments.
+◦
+BTC Rating:
+▪
+Description: The ratio of the Company’s Bitcoin NAV and the sum of the notional values of the instruments being rated and all instruments that are senior to it or share an equal claim to assets with an earlier stated or potential repurchase date.
+▪
+Calculation: (Bitcoin NAV) / (Sum of Notional Values of instruments being rated + senior instruments + equally claiming instruments with earlier maturity/put dates).
+▪
+Limitations: It does not represent a rating from any rating agency and is not equivalent to a "rating" in the traditional financial context. It does not account for potential cross-defaults under debt obligations that could accelerate maturity dates of junior liabilities. Presented for illustrative purposes only and should not form the basis for an investment decision.
+◦
+BTC Risk:
+▪
+Description: The probability of an instrument having a BTC Rating less than 1x at the end of its Duration. This probability is derived from a lognormal distribution modeling of bitcoin’s price, adjusted for BTC ARR and BTC Volatility assumptions.
+▪
+Calculation: Calculated as the probability that BTC Rating falls below 1x at the end of the given Duration, using a lognormal model adjusted for BTC ARR and BTC Volatility.
+▪
+Limitations: It does not represent an actuarial risk rating or a rating from any rating agency and is not a risk rating in the traditional financial context. Presented for illustrative purposes only and should not form the basis for an investment decision. Actual results may vary materially.
+◦
+BTC Credit:
+▪
+Description: The credit spread necessary to offset BTC Risk for a given security. It is calculated by annualizing BTC Risk assuming the same risk of falling below a 1x BTC Rating each year and assuming no recovery if collateral falls short.
+▪
+Calculation: Calculated by annualizing BTC Risk assuming the same risk each year and no recovery if collateral falls short: BTC Credit = (–ln(1 – BTC Risk) ÷ Duration).
+▪
+Limitations: This metric is not for investment decisions. Presented for illustrative purposes only. Actual results may vary materially.
+◦
+BTC Credit Hurdle:
+▪
+Description: The BTC ARR necessary to create investment grade BTC Credit based on the framework presented.
+▪
+Limitations: This metric is not for investment decisions. Presented for illustrative purposes only.
+◦
+Duration:
+▪
+Description: For a convertible bond, it is the sooner of the stated maturity date or the date it may become due upon exercise of a repurchase right at the option of the holder. For a preferred stock, it is the Macaulay Duration of such preferred stock.
+▪
+Calculation: See description above.
+◦
+Macaulay Duration (for preferred stock):
+▪
+Description: The quotient obtained by dividing the sum of 1 and the effective yield of such stock by the effective yield of such stock.
+▪
+Calculation: (1 + effective yield) / (effective yield).
+•
+BTC Forecast Metrics: These are assumed inputs for modeling.
+◦
+BTC ARR:
+▪
+Description: An assumed annualized rate of return on bitcoin expressed as a percentage.
+▪
+Limitations: This metric is presented for illustrative purposes only, and no prediction as to the price of bitcoin is being made.
+◦
+BTC Volatility:
+▪
+Description: The assumed standard deviation of the annual return of bitcoin expressed as a percentage.
+▪
+Limitations: This metric is presented for illustrative purposes only, and no prediction as to the volatility of bitcoin is being made.
+•
+BTC Price:
+◦
+Description: The current market price of one bitcoin.
+
+
+- BTC Treasury:
+
+  - Description: Used in the phrase "Strategy BTC Treasury Operations". This refers to the Company's activities related to acquiring and managing bitcoin as a treasury reserve asset.
+
+- BTC Capital:
+
+  - Description: The proceeds used from capital raised for the purpose of acquiring bitcoin.
+
+- BTC Spread:
+
+  - Description: The BTC Gain with respect to a given financing or security.
+
+  - Calculation: Not explicitly defined as a distinct calculation, but used in the calculation of BTC $ Income.
+
+
+- Bitcoin NAV (and mNAV):
+
+  - Bitcoin NAV:
+
+  -- Description: Represents the value of the Company's bitcoin holdings.
+
+  -- Limitations: It does not take into account debt or the liquidation value of perpetual preferred stock. It is not equivalent to "net asset value" or "NAV" or any similar metric in the traditional financial context and is not comparable to NAV metrics reported by others (like ETFs, ETPs, mutual funds). Presented as a supplement, not a substitute, and should only be used by sophisticated investors who understand its limitations.
+
+- mNAV:
+
+  - Description: Represents a multiple of Bitcoin NAV.
+
+  - Calculation: The Company's enterprise value (as defined by the Company) divided by Bitcoin NAV. The Company's enterprise value is calculated as the sum of (A) the total market value of all outstanding MSTR common stock, (B) the aggregate principal amount of the Company's indebtedness, and (C) the aggregate notional value of the Company's outstanding perpetual preferred stock, less (D) the Company's most recently reported cash balance value.
+
+  - Limitations: It is not equivalent to "net asset value" or "NAV" or any similar metric in the traditional financial context. It is not a measure of the amount by which enterprise value exceeds net asset value in the traditional financial sense. Presented as a supplement, not a substitute, and should only be used by sophisticated investors who understand its limitations.
+
+Related Terms Used in KPI Calculations:
+
+- Basic Shares Outstanding:
+
+  - Description: Reflects the actual number of Class A common stock and Class B common stock outstanding as of the dates presented. For calculation purposes, it includes shares sold under at-the-market equity offerings or shares to be issued pursuant to exercised options or vested restricted stock units pending issuance.
+
+  - Calculation: See description above.
+
+
+- Assumed Diluted Shares Outstanding:
+
+  - Description: The aggregate of the Company's actual shares of common stock outstanding at the end of each period plus all additional shares that would result from the assumed conversion of all outstanding convertible notes and convertible preferred stock, exercise of all outstanding stock option awards, and settlement of all outstanding restricted stock units and performance stock units.
+
+  - Calculation: Basic Shares Outstanding + (Shares from assumed conversion of convertible notes/preferred stock) + (Shares from assumed exercise of stock options) + (Shares from assumed settlement of restricted/performance stock units).
+
+ - Limitations: This calculation is not calculated using the treasury method and does not take into account vesting conditions for equity awards, the exercise price of stock options, or any contractual conditions limiting convertibility of convertible debt instruments.
+
+Remember, the sources strongly advise investors to rely on the financial statements and other disclosures contained in the Company's SEC filings for complete information.

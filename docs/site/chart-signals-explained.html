@@ -68,6 +68,49 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <script src="https://kit.fontawesome.com/78ddb093ea.js" crossorigin="anonymous"></script>
 
+  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+  <script>document.addEventListener("DOMContentLoaded", function () {
+ var mathElements = document.getElementsByClassName("math");
+ var macros = [];
+ for (var i = 0; i < mathElements.length; i++) {
+  var texText = mathElements[i].firstChild;
+  if (mathElements[i].tagName == "SPAN") {
+   katex.render(texText.data, mathElements[i], {
+    displayMode: mathElements[i].classList.contains('display'),
+    throwOnError: false,
+    macros: macros,
+    fleqn: false
+   });
+}}});
+  </script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -136,11 +179,15 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="../site/chart-signals-explained.html" aria-current="page"> 
 <span class="menu-text">Chart Signals Explained</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../site/support.html"> 
+<span class="menu-text">Support</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="https://x.com/nakametrics"> 
-<span class="menu-text">x.com/nakametrics</span></a>
+<span class="menu-text"><span class="citation" data-cites="nakametrics">@nakametrics</span></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -157,9 +204,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#vwap-volume-weighted-average-price" id="toc-vwap-volume-weighted-average-price" class="nav-link active" data-scroll-target="#vwap-volume-weighted-average-price">VWAP: Volume-Weighted Average Price</a>
+  <li><a href="#vwap-volume-weighted-average-price" id="toc-vwap-volume-weighted-average-price" class="nav-link active" data-scroll-target="#vwap-volume-weighted-average-price">VWAP: Volume-Weighted Average Price</a></li>
+  <li><a href="#approximated-vwap-vwapa-from-daily-data" id="toc-approximated-vwap-vwapa-from-daily-data" class="nav-link" data-scroll-target="#approximated-vwap-vwapa-from-daily-data">Approximated VWAP (VWAPa) from Daily Data</a>
   <ul class="collapse">
-  <li><a href="#why-it-matters" id="toc-why-it-matters" class="nav-link" data-scroll-target="#why-it-matters">Why It Matters</a></li>
+  <li><a href="#why-vwap-matters" id="toc-why-vwap-matters" class="nav-link" data-scroll-target="#why-vwap-matters">Why VWAP Matters</a></li>
   <li><a href="#vwap-as-a-trend-indicator" id="toc-vwap-as-a-trend-indicator" class="nav-link" data-scroll-target="#vwap-as-a-trend-indicator">VWAP as a Trend Indicator</a></li>
   </ul></li>
   </ul>
@@ -197,9 +245,32 @@ You can add similar sections for **moving averages**, **RSI**, or **volume trend
 -->
 <section id="vwap-volume-weighted-average-price" class="level2">
 <h2 class="anchored" data-anchor-id="vwap-volume-weighted-average-price">VWAP: Volume-Weighted Average Price</h2>
-<p>The <em>Volume-Weighted Average Price</em> (VWAP) represents the average price at which a stock has traded throughout the day, <strong>weighted by volume</strong>.</p>
-<section id="why-it-matters" class="level3">
-<h3 class="anchored" data-anchor-id="why-it-matters">Why It Matters</h3>
+<p>The <em>Volume-Weighted Average Price</em> (VWAP) represents the average price at which a stock has traded throughout the day, <strong>weighted by volume</strong>. <strong>VWAP</strong> requires intraday data — such as tick-level or minute-level price and volume. It is calculated as:</p>
+<p><span class="math display">
+\text{VWAP}_t = \frac{\sum_{i=1}^{t} P_i \cdot V_i}{\sum_{i=1}^{t} V_i}
+</span></p>
+<p>Where:</p>
+<ul>
+<li>( P_i ) is the price at time ( i )</li>
+<li>( V_i ) is the trading volume at time ( i )</li>
+<li>( t ) is the current time point (e.g., minute or tick)</li>
+</ul>
+</section>
+<section id="approximated-vwap-vwapa-from-daily-data" class="level2">
+<h2 class="anchored" data-anchor-id="approximated-vwap-vwapa-from-daily-data">Approximated VWAP (VWAPa) from Daily Data</h2>
+<p>While true VWAP (Volume-Weighted Average Price) requires <strong>intraday price and volume data</strong>, most freely available data sources only provide <strong>daily OHLCV data</strong> (Open, High, Low, Close, Volume). As a result, an <strong>approximated VWAP</strong> uses the <strong>typical price</strong>, which is the average of the daily high, low, and close:</p>
+<p><span class="math display">
+\text{VWAP}_{\text{a}} = \frac{\text{High} + \text{Low} + \text{Close}}{3}
+</span></p>
+<p>This is often referred to as the <strong>typical price</strong>. It does <strong>not</strong> factor in volume, and should be understood as a simple price-level proxy rather than a true volume-weighted measure.</p>
+<ul>
+<li><span class="math inline">P_i</span> is the price at time <span class="math inline">i</span></li>
+<li><span class="math inline">V_i</span> is the trading volume at time <span class="math inline">i</span></li>
+<li><span class="math inline">t</span> is the current time point (e.g., minute or tick)</li>
+</ul>
+<p>This is <strong>not a true volume-weighted measure</strong> but it is commonly used as a proxy when minute-level data is unavailable. If you would like to see the true values, please donate so that I can afford premium access. With such access, I would create additional charts for you all.</p>
+<section id="why-vwap-matters" class="level3">
+<h3 class="anchored" data-anchor-id="why-vwap-matters">Why VWAP Matters</h3>
 <p>VWAP helps investors and traders understand whether they are getting a good price relative to the day’s trading activity.</p>
 <ul>
 <li><strong>Buy below VWAP</strong> → favorable entry</li>

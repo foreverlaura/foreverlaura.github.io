@@ -14,18 +14,39 @@
     "text": "Trading Volume\n\n3350.T\n\n\n\nMTPLF"
   },
   {
-    "objectID": "site/companies/twentyone/twentyone.html#trading-volume",
-    "href": "site/companies/twentyone/twentyone.html#trading-volume",
-    "title": "NAKAMETRICS",
-    "section": "Trading Volume",
-    "text": "Trading Volume"
-  },
-  {
-    "objectID": "site/companies/etfs/etfs.html#trading-volume",
-    "href": "site/companies/etfs/etfs.html#trading-volume",
+    "objectID": "site/companies/kulr_technology_group/kulr_technology_group.html#trading-volume",
+    "href": "site/companies/kulr_technology_group/kulr_technology_group.html#trading-volume",
     "title": "NAKAMETRICS",
     "section": "Trading Volume",
     "text": "Trading Volume\n\nKULR"
+  },
+  {
+    "objectID": "site/chart-signals-explained.html",
+    "href": "site/chart-signals-explained.html",
+    "title": "Chart Signals Explained",
+    "section": "",
+    "text": "Simple interpretations of VWAP and other key signals."
+  },
+  {
+    "objectID": "site/chart-signals-explained.html#vwap-volume-weighted-average-price",
+    "href": "site/chart-signals-explained.html#vwap-volume-weighted-average-price",
+    "title": "Chart Signals Explained",
+    "section": "VWAP: Volume-Weighted Average Price",
+    "text": "VWAP: Volume-Weighted Average Price\nThe Volume-Weighted Average Price (VWAP) represents the average price at which a stock has traded throughout the day, weighted by volume. VWAP requires intraday data — such as tick-level or minute-level price and volume. It is calculated as:\n\n\\text{VWAP}_t = \\frac{\\sum_{i=1}^{t} P_i \\cdot V_i}{\\sum_{i=1}^{t} V_i}\n\nWhere:\n\n( P_i ) is the price at time ( i )\n( V_i ) is the trading volume at time ( i )\n( t ) is the current time point (e.g., minute or tick)"
+  },
+  {
+    "objectID": "site/chart-signals-explained.html#approximated-vwap-vwapa-from-daily-data",
+    "href": "site/chart-signals-explained.html#approximated-vwap-vwapa-from-daily-data",
+    "title": "Chart Signals Explained",
+    "section": "Approximated VWAP (VWAPa) from Daily Data",
+    "text": "Approximated VWAP (VWAPa) from Daily Data\nWhile true VWAP (Volume-Weighted Average Price) requires intraday price and volume data, most freely available data sources only provide daily OHLCV data (Open, High, Low, Close, Volume). As a result, an approximated VWAP uses the typical price, which is the average of the daily high, low, and close:\n\n\\text{VWAP}_{\\text{a}} = \\frac{\\text{High} + \\text{Low} + \\text{Close}}{3}\n\nThis is often referred to as the typical price. It does not factor in volume, and should be understood as a simple price-level proxy rather than a true volume-weighted measure.\n\nP_i is the price at time i\nV_i is the trading volume at time i\nt is the current time point (e.g., minute or tick)\n\nThis is not a true volume-weighted measure but it is commonly used as a proxy when minute-level data is unavailable. If you would like to see the true values, please donate so that I can afford premium access. With such access, I would create additional charts for you all.\n\nWhy VWAP Matters\nVWAP helps investors and traders understand whether they are getting a good price relative to the day’s trading activity.\n\nBuy below VWAP → favorable entry\nSell above VWAP → favorable exit\n\n\n\nVWAP as a Trend Indicator\nVWAP also acts as a dynamic indicator of market sentiment:\n\nPrice above VWAP → bullish signal\n\nPrice below VWAP → bearish signal\n\nVWAP resets at the start of each trading day and reflects where the majority of trading volume occurred, making it a useful benchmark for intraday analysis."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Nakametrics",
+    "section": "",
+    "text": "Nakametrics was created with a simple idea: that Bitcoin’s growing role in the financial system is one of the most important shifts in modern markets — and there’s still plenty of room to explore it through fresh charts, new ideas, and different perspectives.\nThis project focuses on visualizing companies that hold Bitcoin on their balance sheets, along with market behavior related to corporate Bitcoin exposure. The goal is to present these stories visually — in ways that stand apart from others in the space.\nAll charted data comes from publicly available sources and may occasionally be limited or delayed. Charts are updated regularly (ideally daily) to provide both short-term signals and long-term context.\n\n\nContent includes:\n\nBitcoin holdings and balance sheet exposure among public companies\nMarket activity across bitcoin and related equities\nVisual relationships between price, volume, and corporate treasury moves \nBitcoin accumulation trends\nYield estimates and valuation models for Bitcoin holdings\nBitcoin balance sheet exposure among public companies \n\nThe mission is to bring fresh insight and clarity to the Bitcoin-financial ecosystem through charts and visualizations.\nAbout The Creator:\nThe site was created by, and is maintained by a visually-impaired bitcoin enthusiast (VIBE) whose interests include freedom money, Bitcoin, Bitcoin-related companies, data visualization, and data analysis. For some time, I have admired the exciting concepts others have created or build, after my a diagnosis with a progressive degenerative visual impairment in June 2024, I decided that delaying any concepts further may only result in them becoming more challenging in the future. The website and created charts are designed for a black background out of personal necessity due to my own visual impairment, which compromises my ability to see content with lots of white content. I apologize to those who have the opposite impairment.\n\nNOTE: This site is unrelated to any company nor existing project and intends in no way to provide financial advice. Please consult documentation on official company websites and platforms for relevant financial information."
   },
   {
     "objectID": "index.html",
@@ -42,32 +63,25 @@
     "text": "KULR Technology Group\nMetaplanet\nSemler Scientific\nStrategy\nTwentyOne"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Nakametrics",
-    "section": "",
-    "text": "Nakametrics was created with a simple idea: that Bitcoin’s growing role in the financial system is one of the most important shifts in modern markets — and there’s still plenty of room to explore it through fresh charts, new ideas, and different perspectives.\nThis project focuses on visualizing companies that hold Bitcoin on their balance sheets, along with market behavior related to corporate Bitcoin exposure. The goal is to present these stories visually — in ways that stand apart from others in the space.\nAll charted data comes from publicly available sources and may occasionally be limited or delayed. Charts are updated regularly (ideally daily) to provide both short-term signals and long-term context.\n\n\nContent includes:\n\nBitcoin holdings and balance sheet exposure among public companies\nMarket activity across bitcoin and related equities\nVisual relationships between price, volume, and corporate treasury moves \nBitcoin accumulation trends\nYield estimates and valuation models for Bitcoin holdings\nBitcoin balance sheet exposure among public companies \n\nThe mission is to bring fresh insight and clarity to the Bitcoin-financial ecosystem through charts and visualizations.\nAbout The Creator:\nThe site was created by, and is maintained by a visually-impaired bitcoin enthusiast (VIBE) whose interests include freedom money, Bitcoin, Bitcoin-related companies, data visualization, and data analysis. For some time, I have admired the exciting concepts others have created or build, after my a diagnosis with a progressive degenerative visual impairment in June 2024, I decided that delaying any concepts further may only result in them becoming more challenging in the future. The website and created charts are designed for a black background out of personal necessity due to my own visual impairment, which compromises my ability to see content with lots of white content. I apologize to those who have the opposite impairment.\n\nNOTE: This site is unrelated to any company nor existing project and intends in no way to provide financial advice. Please consult documentation on official company websites and platforms for relevant financial information."
-  },
-  {
-    "objectID": "site/chart-signals-explained.html",
-    "href": "site/chart-signals-explained.html",
-    "title": "Chart Signals Explained",
-    "section": "",
-    "text": "Simple interpretations of VWAP and other key signals."
-  },
-  {
-    "objectID": "site/chart-signals-explained.html#vwap-volume-weighted-average-price",
-    "href": "site/chart-signals-explained.html#vwap-volume-weighted-average-price",
-    "title": "Chart Signals Explained",
-    "section": "VWAP: Volume-Weighted Average Price",
-    "text": "VWAP: Volume-Weighted Average Price\nThe Volume-Weighted Average Price (VWAP) represents the average price at which a stock has traded throughout the day, weighted by volume.\n\nWhy It Matters\nVWAP helps investors and traders understand whether they are getting a good price relative to the day’s trading activity.\n\nBuy below VWAP → favorable entry\nSell above VWAP → favorable exit\n\n\n\nVWAP as a Trend Indicator\nVWAP also acts as a dynamic indicator of market sentiment:\n\nPrice above VWAP → bullish signal\n\nPrice below VWAP → bearish signal\n\nVWAP resets at the start of each trading day and reflects where the majority of trading volume occurred, making it a useful benchmark for intraday analysis."
-  },
-  {
-    "objectID": "site/companies/kulr_technology_group/kulr_technology_group.html#trading-volume",
-    "href": "site/companies/kulr_technology_group/kulr_technology_group.html#trading-volume",
+    "objectID": "site/companies/etfs/etfs.html#trading-volume",
+    "href": "site/companies/etfs/etfs.html#trading-volume",
     "title": "NAKAMETRICS",
     "section": "Trading Volume",
     "text": "Trading Volume\n\nKULR"
+  },
+  {
+    "objectID": "site/companies/twentyone/twentyone.html#trading-volume",
+    "href": "site/companies/twentyone/twentyone.html#trading-volume",
+    "title": "NAKAMETRICS",
+    "section": "Trading Volume",
+    "text": "Trading Volume"
+  },
+  {
+    "objectID": "site/support.html",
+    "href": "site/support.html",
+    "title": "Support My Work",
+    "section": "",
+    "text": "Why I’m Asking for Support\nI work on this project independently, without institutional or financial backing.\nWhat I create is based on free data sources. Much of what I would love to create relies on access to premium data sources. These tools help me make better content for you and the community.\nI am very passionate about this work but the cost of maintaining access to high-quality financial data (like intraday price feeds, analytics APIs, and visualization tools) can be challenging to carry alone.\n\n\nHow You Can Help\nIf you have found my work helpful, insightful, or worth supporting, consider making a small donation.\nYour support helps me:\n\nCover the cost of premium data sources\n\nExpand coverage and analysis\n\nDedicate more time to building tools and research\n\nKeep everything open, transparent, and accessible\n\nHow I will support you (if you would like):\n\nI will give you a community shout out on X.com thanking you\nI will add your handle to charts\nI will add you to the donors section of this website"
   },
   {
     "objectID": "site/companies/semler_scientific/semler_scientific.html#trading-volume",

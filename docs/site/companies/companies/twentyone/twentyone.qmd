@@ -1,0 +1,30 @@
+---
+title: "" 
+page-layout: article
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-depth: 3    # or higher, depending on how deep your headings go
+    toc-collapse: false   # keep all expanded by default
+    code-tools: false
+    fig-align: center
+---
+
+<!-- # xxxx -->
+<!-- xxxx: Latest Company Metrics-->
+
+## Daily Close and VWAP
+
+
+
+<!--### CEP -->
+
+![](latest/stock_prices/twentyone_cep_plot_price_vwap.png){width=800}
+
+
+## Trading Volume
+
+<!--### CEP -->
+
+![](latest/stock_prices/twentyone_cep_avg_volume_trailing12.png){width=800}
