@@ -251,9 +251,9 @@ You can add similar sections for **moving averages**, **RSI**, or **volume trend
 </span></p>
 <p>Where:</p>
 <ul>
-<li>( P_i ) is the price at time ( i )</li>
-<li>( V_i ) is the trading volume at time ( i )</li>
-<li>( t ) is the current time point (e.g., minute or tick)</li>
+<li><span class="math inline">P_i</span> is the price at time <span class="math inline">i</span></li>
+<li><span class="math inline">V_i</span> is the trading volume at time <span class="math inline">i</span></li>
+<li><span class="math inline">t</span> is the current time point (e.g., minute or tick)</li>
 </ul>
 </section>
 <section id="approximated-vwap-vwapa-from-daily-data" class="level2">
@@ -263,11 +263,6 @@ You can add similar sections for **moving averages**, **RSI**, or **volume trend
 \text{VWAP}_{\text{a}} = \frac{\text{High} + \text{Low} + \text{Close}}{3}
 </span></p>
 <p>This is often referred to as the <strong>typical price</strong>. It does <strong>not</strong> factor in volume, and should be understood as a simple price-level proxy rather than a true volume-weighted measure.</p>
-<ul>
-<li><span class="math inline">P_i</span> is the price at time <span class="math inline">i</span></li>
-<li><span class="math inline">V_i</span> is the trading volume at time <span class="math inline">i</span></li>
-<li><span class="math inline">t</span> is the current time point (e.g., minute or tick)</li>
-</ul>
 <p>This is <strong>not a true volume-weighted measure</strong> but it is commonly used as a proxy when minute-level data is unavailable. If you would like to see the true values, please donate so that I can afford premium access. With such access, I would create additional charts for you all.</p>
 <section id="why-vwap-matters" class="level3">
 <h3 class="anchored" data-anchor-id="why-vwap-matters">Why VWAP Matters</h3>
