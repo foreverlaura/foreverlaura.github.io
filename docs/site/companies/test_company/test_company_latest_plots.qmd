@@ -1,0 +1,28 @@
+---
+title: "" 
+page-layout: article
+format:
+  html:
+    toc: true
+    toc-location: left
+    code-tools: false
+    fig-align: center
+---
+
+<!-- # test_company -->
+<!-- test_company: Latest Company Metrics-->
+
+## Daily Close and VWAP
+
+### TEST
+
+![](latest/stock_prices/test_company_test_plot_price_vwap.png){width=800}
+
+---
+
+## Trading Volume
+
+### TEST
+
+![](latest/stock_prices/test_company_test_avg_volume_trailing12.png){width=800}
+

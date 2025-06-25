@@ -1,0 +1,28 @@
+---
+title: "" 
+page-layout: article
+format:
+  html:
+    toc: true
+    toc-location: left
+    code-tools: false
+    fig-align: center
+---
+
+<!-- # xxxx -->
+<!-- xxxx: Latest Company Metrics-->
+
+## Daily Close and VWAP
+
+### KULR
+
+![](latest/stock_prices/kulr_technology_group_kulr_plot_price_vwap.png){width=800}
+
+---
+
+## Trading Volume
+
+### KULR
+
+![](latest/stock_prices/kulr_technology_group_kulr_avg_volume_trailing12.png){width=800}
+
